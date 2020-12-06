@@ -1,6 +1,4 @@
-//
-//  AIV+Ext.swift
-//  TransParis
+//  CircleDotsIndicatorView
 //
 //  Created by Ludovic Grimbert on 06/12/2020.
 //  Copyright © 2020 ludovic grimbert. All rights reserved.

@@ -1,6 +1,4 @@
-//
-//  ActivityIndicatorview.swift
-//  GetCity
+//  LGActivityIndicatorView.swift
 //
 //  Created by Ludovic Grimbert on 11/05/2020.
 //  Copyright © 2020 ludovic grimbert. All rights reserved.
